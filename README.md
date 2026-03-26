@@ -73,7 +73,7 @@ project_path/
   - output: 3_cluster_spline_within_between_6plots, cluster_spline_within_between_6plots_2, spline*
 
 # 🎯Results
-👉 **[Have a look at my poster (pdf):](poster.pdf)**
+👉 **[Have a look at my poster (pdf):](poster_zimmermann.pdf)**
 
 ## Clustering Table
 This table shows how we aggregated the networks from Myers et al. (2024) into functional similar clusters for visualization purposes
